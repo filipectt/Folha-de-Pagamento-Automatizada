@@ -1,6 +1,3 @@
-README_FOLHA_DE_PAGAMENTO_AUTOMATIZADO
-============================================================
-
 Sistema de Conferência de Pagamentos por CPF
 ------------------------------------------------------------
 
@@ -75,4 +72,5 @@ Objetivo
 Reduzir erros manuais na conferência de folha de pagamento,
 automatizar validações e aumentar a eficiência do processo
 financeiro.
+
 ============================================================
